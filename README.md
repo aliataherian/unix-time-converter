@@ -11,12 +11,11 @@ Unix Time Converter is a simple Python script that allows users to:
 ✅ Interact via a command-line interface for easy conversion.
 
 How to Use:
-1️⃣ Run python script.py
-2️⃣ Choose:
-
-1 to convert a date to Unix time
-2 to convert Unix time to a date
-3️⃣ Enter the date/timestamp when prompted
+  1️⃣ Run python script.py
+  2️⃣ Choose:
+    1 to convert a date to Unix time
+    2 to convert Unix time to a date
+  3️⃣ Enter the date/timestamp when prompted
 Perfect for developers and sysadmins who frequently work with timestamps! ⏳💻
 
 ## License
